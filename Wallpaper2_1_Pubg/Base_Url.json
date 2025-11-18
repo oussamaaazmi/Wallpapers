@@ -3,7 +3,6 @@
     "PrivacyPolicy": "https://www.covershootstudio.xyz/privacy-policy.html",
     "MoreApp": "https://play.google.com/store/apps/developer?id=Cover+Shoot+Studio",
     "ad_status": "0",
-    //Supported main ads value: admob, google_ad_manager, fan, startapp, unity, applovin_max, applovin_discovery or ironsource
     "ad_type": "fan",
     "backup_ads": "none",
     "admob_publisher_id": "pub-3940256099942544",
